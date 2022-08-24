@@ -100,6 +100,12 @@ Analytics Edge and Data Ethics_DNSC_6301 Project (Credit line Increase)
 </td>
   </tr>  
 </table>
+
+<li>Source of training data: Provided by Prof. jphall@gwu.edu for DNSC_6301 course under MSBA program</li>
+<li>How training data was divided into training and validation data: 50% training, 25% validation, 25% test</li>
+<li>Number of rows in training and validation data:
+<br>Training rows: 15,000</br>
+Validation rows: 7,500</li>
   
 
   
