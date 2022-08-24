@@ -7,7 +7,7 @@ Analytics Edge and Data Ethics_DNSC_6301 Project (Credit line Increase)
   <li><b>Model date</b> : August 2022</li>
   <li><b>Model version:1.0<br>Python version: 3.7.13</br>sklearn version: 1.0.2</li>
   <li>License :MIT</li>
-  <li>Model Implemetation code:</l1>
+  <li>Model Implemetation code: https://github.com/pranjals26/DNSC_6301_Project_Group_28/blob/main/DNSC_6301_Project_Group_28.ipynb</l1>
   
   
       
