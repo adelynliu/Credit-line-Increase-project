@@ -110,7 +110,7 @@ Validation rows: 7,500</li>
 
 ### Test Data
 * **Source of test data**: GWU Blackboard, email `jphall@gwu.edu` for more information
-* **Number of rows in test data**: 7,500
+* **Number of rows in test data**: 7,500 / (30000, 26)#what to add
 * **State any differences in columns between training and test data**: None
 
 ### Model details
@@ -134,7 +134,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ### Quantitative Analysis
 
 #### Correlation Heatmap
-![Correlation Heatmap](download.png)
+![Correlation Heatmap](https://drive.google.com/file/d/1iIY62MvXi1pIC54ZAiTHNTvWEgWliV3u/view?usp=sharing)
 
 
   
