@@ -3,7 +3,7 @@ Analytics Edge and Data Ethics_DNSC_6301 Project (Credit line Increase)
 
 <h3>Basic Information</h3>
 <ul>
-  <li><b>Group no 28:</b> <br>Pranjal Shukla - Pranjalshukla98@gwmail.gwu.edu</br>Chun yueh Liu - adelynliu8487@gwu.edu<br>Dimple Kuldeep Modi - dimple.modi@gwmail.gwu.edu</br> Mariam Zain - mzain22@gwmail.gwu.ed</li>
+  <li><b>Group no 28:</b> <br>Pranjal Shukla - Pranjalshukla98@gwmail.gwu.edu</br>Chun Yueh Liu - adelynliu8487@gwu.edu<br>Dimple Kuldeep Modi - dimple.modi@gwmail.gwu.edu</br> Mariam Zain - mzain22@gwmail.gwu.ed</li>
   <li><b>Model date</b> : August 2022</li>
   <li><b>Model version:1.0<br>Python version: 3.7.13</br>sklearn version: 1.0.2</li>
   <li>License :MIT</li>
@@ -47,12 +47,6 @@ Analytics Edge and Data Ethics_DNSC_6301 Project (Credit line Increase)
     <td>demographic information</td>
     <td>int</td>
     <td>1 = hispanic; 2 = black; 3 = white; 4 = asian</td>
-  </tr>
-  <tr>
-    <td>EDUCATION</td>
-    <td>demographic information</td>
-    <td>int</td>
-    <td>1 = graduate school; 2 = university; 3 = high school; 4 = others</td>
   </tr>
   <tr>
     <td>EDUCATION</td>
