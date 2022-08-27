@@ -14,6 +14,7 @@ Analytics Edge and Data Ethics_DNSC_6301 Project (Credit line Increase)
   <li><b>Primary Intended uses:</b> This model is an example probability of default classifier, with an example use case for determining eligibility for a credit line increase.</li>
   <li><b>Primary intended users:</b> GWU DNSC 6301 bootcamp students.</li>
   <li>Out-of-scope use cases: Any use beyond an educational example is out-of-scope.</li>
+  <li>How training data was divided into training and validation data ~~ yet to complete</li>
   
   <h3>Training Data</h3>
   <li>Data Dictionary:</li>
@@ -100,6 +101,7 @@ Analytics Edge and Data Ethics_DNSC_6301 Project (Credit line Increase)
 <li>Number of rows in training and validation data:
 <br>Training rows: 15,000</br>
 Validation rows: 7,500</li>
+<li>State any differences in columns between training and test data ~~ yet to complete </li>
   
 
 ### Test Data
