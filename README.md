@@ -79,6 +79,9 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ![Iteration Plot](https://github.com/pranjals26/DNSC_6301_Project_Group_28/blob/main/Iteration%20Plot.png)
 
+*
+
+
 * Training data create from x names and y name 
 * training data divided into validation data and testing data .
 * Till 3 data training and validation was same after 3 training data become positive ( upward)and validation data become negative (down word)
