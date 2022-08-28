@@ -77,6 +77,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 
 
+
 ![Iteration Plot](https://github.com/pranjals26/DNSC_6301_Project_Group_28/blob/main/Iteration%20Plot.png)
 
 
