@@ -90,28 +90,28 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 * This graph shows three lines: Training AUC, Validation AUC, and Hispanic-to-white AIR. The training AUC line increases to one as the decision tree depth gets more involved. The validation AUC helps find the number of decision trees used for the model. The Hispanic-to-White AIR line was selected because it had the lowest fairness measure. It is up above 0.8 at the tree depth of 6. In terms of fairness and accuracy, the decision tree depth at 6 is a feasible model
 
-# Ethical Considerations
+## Ethical Considerations
 
-# Potential Negative Impacts:
+### Potential Negative Impacts:
 
 Math or software problems:
 * The test AUC is approximately 70%, which indicates that there is still a 30% probability of having an error in our model. 
 * Google Collaborate has privacy issues, but only users with permission to view or edit the file can access it. Hence, Google has intensely made its Open Source programming protected and private. 
 * The probability of data focuses on either being misconstrued, adjusted, or missing. Many potential data lead to questions regarding yield legitimacy.
 
-# Real-world risks: 
+### Real-world risks: 
 * Users who trust the model too much and make decisions without specific consideration may cause uncertain damage and negative consequences.
 
-## Potential Uncertainties
+### Potential Uncertainties
 
 Math or software problems:
 * When executing the decision tree model with personal information, it is questionable if the privacy and information are well protected.
 
-## Real-world risks: 
+### Real-world risks: 
 * With a data set that centers around demographical data, uncertainties around implicit biases arise.
 * Everyone should be treated fairly. When it comes to decision-making, it is not reasonable that a person is approved or denied based on the previous actions of a similar demographic group.
 
-## Unexpected Results
+### Unexpected Results
 
 * When it comes to results about the variable importance, pay_0 shows remarkable output compared to other variables. Hence, if there is an error or missing value in pay_0, we are likely to have unexpected results that we cannot predict.
 
