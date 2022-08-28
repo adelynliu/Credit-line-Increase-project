@@ -86,6 +86,11 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 * The Variable importance helps find a good decision model at pay_0, the most recent payment bill. The graph signifies that pay_0 has more significance. It is a red flag to have more importance on only one variable; Therefore, the model is too dependent on only the pay_0 variable. 
 
 
+![Final_Iteration Plot](https://github.com/pranjals26/DNSC_6301_Project_Group_28/blob/main/Tress%20depth%20and%20AUC%20Iteration%20plot.png)
+
+* This graph shows three lines: Training AUC, Validation AUC, and Hispanic-to-white AIR. The training AUC line increases to one as the decision tree depth gets more involved. The validation AUC helps find the number of decision trees used for the model. The Hispanic-to-White AIR line was selected because it had the lowest fairness measure. It is up above 0.8 at the tree depth of 6. In terms of fairness and accuracy, the decision tree depth at 6 is a feasible model
+
+
 
 
 
