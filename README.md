@@ -7,7 +7,7 @@ Analytics Edge and Data Ethics_DNSC_6301 Project
    - Pranjal Shukla - Pranjalshukla98@gwmail.gwu.edu
    - Chun Yueh Liu - adelynliu8487@gwmail.gwu.edu
    - Dimple Kuldeep Modi - dimple.modi@gwmail.gwu.edu
-   - Mariam Zain - mzain22@gwmail.gwu.ed
+   - Mariam Zain - mzain22@gwmail.gwu.edu
 * **Model date**: August 28, 2022
 * **Model version**: 1.0
 * **License**: MIT
