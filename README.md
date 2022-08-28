@@ -113,7 +113,7 @@ Math or software problems:
 
 ### Unexpected Results
 
-* When it comes to results about the variable importance, pay_0 shows remarkable output compared to other variables. Hence, if there is an error or missing value in pay_0, we are likely to have unexpected results that we cannot predict.
+* When it comes to results about the variable importance, pay_0 shows remarkable output compared to other variables. Hence, if there is an error or missing value in pay_0,we are likely to have unexpected results that we cannot predict.
 
 
 
