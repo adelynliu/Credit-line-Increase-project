@@ -72,6 +72,13 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ![Correlation Heatmap](Heatmap.png)
 
 
+![Iteration plot](Iteration Plot.png)
+
+![Variable importance](Variable importance.png)
+
+
+
+
   
       
   
