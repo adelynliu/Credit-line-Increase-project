@@ -41,7 +41,7 @@ Analytics Edge and Data Ethics_DNSC_6301 Project (Credit line Increase)
 * **Number of rows in training and validation data**:
   * Training rows: 15,000
   * Validation rows: 7,500
- * State any differences in columns between training and test data ~~ yet to complete.
+ 
 
 ### Test Data
 * **Source of test data**: GWU Blackboard, email `jphall@gwu.edu` for more information
@@ -70,7 +70,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 | Tr AUC | Val AUC | Test AUC |
 | ------ | ------- | -------- |
-| 0.3456 | 0.7891  | 0.7687 |
+| 0.7837 | 0.7496  | 0.7438 |
 
 #### Correlation Heatmap
 ![Correlation Heatmap](Heatmap.png)
