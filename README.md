@@ -79,14 +79,8 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ![Iteration Plot](https://github.com/pranjals26/DNSC_6301_Project_Group_28/blob/main/Iteration%20Plot.png)
 
-*
 
-
-* Training data create from x names and y name 
-* training data divided into validation data and testing data .
-* Till 3 data training and validation was same after 3 training data become positive ( upward)and validation data become negative (down word)
-
-
+* This graph shows the training AUC line growing very high as the tree gets deeper. However, the validation AUC line starts going down somewhere between 4-6, which indicates the model isn't performing well. It also shows a continuous decline past tree depth of 8 as it starts to memorize and overfit the data. In summary, the model is not generalizing well
 
 ![Variable importance](https://github.com/pranjals26/DNSC_6301_Project_Group_28/blob/main/Variable%20importance%20.png)
 
