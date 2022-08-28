@@ -45,7 +45,7 @@ Analytics Edge and Data Ethics_DNSC_6301 Project (Credit line Increase)
 
 ### Test Data
 * **Source of test data**: GWU Blackboard, email `jphall@gwu.edu` for more information
-* **Number of rows in test data**: 7,500 / (30000, 26)#what to add
+* **Number of rows in test data**: 7,500 / (30000, 26)
 * **State any differences in columns between training and test data**: None
 
 ### Model details
