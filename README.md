@@ -71,9 +71,19 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 #### Correlation Heatmap
 ![Correlation Heatmap](Heatmap.png)
 
+
+
 ![Iteration Plot](https://github.com/pranjals26/DNSC_6301_Project_Group_28/blob/main/Iteration%20Plot.png)
 
+* Training data create from x names and y name 
+* training data divided into validation data and testing data .
+* Till 3 data training and validation was same after 3 training data become positive ( upward)and validation data become negative (down word)
 
+
+
+![Variable importance](https://github.com/pranjals26/DNSC_6301_Project_Group_28/blob/main/Variable%20importance%20.png)
+
+* The Variable importance helps find a good decision model at pay_0, the most recent payment bill. The graph signifies that pay_0 has more significance. It is a red flag to have more importance on only one variable; Therefore, the model is too dependent on only the pay_0 variable. 
 
 
 
